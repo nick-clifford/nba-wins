@@ -1,0 +1,121 @@
+,City,Team,Abb,Year,Final,Games,Loss,Proj,Wins
+0,Atlanta,Hawks,ATL,16-17,43.0,22.0,12.0,43.5,10.0
+1,Atlanta,Hawks,ATL,17-18,24.0,23.0,18.0,25.5,5.0
+2,Atlanta,Hawks,ATL,18-19,29.0,25.0,20.0,23.5,5.0
+3,Atlanta,Hawks,ATL,19-20,,22.0,17.0,32.5,5.0
+4,Boston,Celtics,BOS,16-17,53.0,21.0,9.0,52.5,12.0
+5,Boston,Celtics,BOS,17-18,55.0,25.0,4.0,54.5,21.0
+6,Boston,Celtics,BOS,18-19,49.0,23.0,10.0,59.0,13.0
+7,Boston,Celtics,BOS,19-20,,20.0,5.0,48.5,15.0
+8,Brooklyn,Nets,BRK,16-17,20.0,20.0,15.0,21.5,5.0
+9,Brooklyn,Nets,BRK,17-18,28.0,23.0,14.0,28.0,9.0
+10,Brooklyn,Nets,BRK,18-19,42.0,26.0,18.0,32.5,8.0
+11,Brooklyn,Nets,BRK,19-20,,21.0,10.0,50.5,11.0
+12,Charlotte,Hornets,CHO,16-17,36.0,21.0,9.0,42.5,12.0
+13,Charlotte,Hornets,CHO,17-18,36.0,22.0,13.0,42.5,9.0
+14,Charlotte,Hornets,CHO,18-19,39.0,24.0,13.0,36.0,11.0
+15,Charlotte,Hornets,CHO,19-20,,23.0,14.0,32.5,9.0
+16,Chicago,Bulls,CHI,16-17,41.0,20.0,9.0,39.0,11.0
+17,Chicago,Bulls,CHI,17-18,27.0,22.0,19.0,22.0,3.0
+18,Chicago,Bulls,CHI,18-19,22.0,25.0,20.0,30.0,5.0
+19,Chicago,Bulls,CHI,19-20,,22.0,14.0,27.5,8.0
+20,Cleveland,Cavaliers,CLE,16-17,51.0,19.0,5.0,56.5,14.0
+21,Cleveland,Cavaliers,CLE,17-18,50.0,24.0,7.0,54.5,17.0
+22,Cleveland,Cavaliers,CLE,18-19,19.0,24.0,19.0,31.5,5.0
+23,Cleveland,Cavaliers,CLE,19-20,,20.0,15.0,23.5,5.0
+24,Dallas,Mavericks,DAL,16-17,33.0,20.0,16.0,39.5,4.0
+25,Dallas,Mavericks,DAL,17-18,24.0,24.0,17.0,34.5,7.0
+26,Dallas,Mavericks,DAL,18-19,33.0,23.0,11.0,36.0,12.0
+27,Dallas,Mavericks,DAL,19-20,,21.0,6.0,41.5,15.0
+28,Denver,Nuggets,DEN,16-17,40.0,21.0,13.0,37.0,8.0
+29,Denver,Nuggets,DEN,17-18,46.0,23.0,10.0,45.5,13.0
+30,Denver,Nuggets,DEN,18-19,54.0,24.0,7.0,48.0,17.0
+31,Denver,Nuggets,DEN,19-20,,18.0,5.0,50.5,13.0
+32,Detroit,Pistons,DET,16-17,37.0,22.0,11.0,44.5,11.0
+33,Detroit,Pistons,DET,17-18,39.0,23.0,9.0,38.5,14.0
+34,Detroit,Pistons,DET,18-19,41.0,22.0,9.0,38.5,13.0
+35,Detroit,Pistons,DET,19-20,,22.0,14.0,34.5,8.0
+36,Golden State,Warriors,GSW,16-17,67.0,21.0,3.0,66.5,18.0
+37,Golden State,Warriors,GSW,17-18,58.0,25.0,6.0,67.5,19.0
+38,Golden State,Warriors,GSW,18-19,57.0,26.0,9.0,62.0,17.0
+39,Golden State,Warriors,GSW,19-20,,23.0,19.0,46.5,4.0
+40,Houston,Rockets,HOU,16-17,55.0,21.0,7.0,44.0,14.0
+41,Houston,Rockets,HOU,17-18,65.0,22.0,4.0,55.5,18.0
+42,Houston,Rockets,HOU,18-19,53.0,23.0,12.0,56.5,11.0
+43,Houston,Rockets,HOU,19-20,,20.0,7.0,53.5,13.0
+44,Indiana,Pacers,IND,16-17,42.0,21.0,11.0,44.5,10.0
+45,Indiana,Pacers,IND,17-18,48.0,24.0,11.0,31.5,13.0
+46,Indiana,Pacers,IND,18-19,48.0,24.0,10.0,48.0,14.0
+47,Indiana,Pacers,IND,19-20,,21.0,7.0,47.5,14.0
+48,Los Angeles,Clippers,LAC,16-17,51.0,22.0,6.0,53.5,16.0
+49,Los Angeles,Clippers,LAC,17-18,42.0,22.0,14.0,45.0,8.0
+50,Los Angeles,Clippers,LAC,18-19,48.0,24.0,8.0,37.5,16.0
+51,Los Angeles,Clippers,LAC,19-20,,22.0,6.0,51.5,16.0
+52,Los Angeles,Lakers,LAL,16-17,26.0,23.0,13.0,24.5,10.0
+53,Los Angeles,Lakers,LAL,17-18,35.0,23.0,15.0,32.5,8.0
+54,Los Angeles,Lakers,LAL,18-19,37.0,24.0,9.0,48.0,15.0
+55,Los Angeles,Lakers,LAL,19-20,,22.0,3.0,51.5,19.0
+56,Memphis,Grizzlies,MEM,16-17,43.0,22.0,8.0,42.5,14.0
+57,Memphis,Grizzlies,MEM,17-18,22.0,23.0,15.0,37.5,8.0
+58,Memphis,Grizzlies,MEM,18-19,33.0,23.0,9.0,33.5,14.0
+59,Memphis,Grizzlies,MEM,19-20,,21.0,15.0,27.5,6.0
+60,Miami,Heat,MIA,16-17,41.0,20.0,13.0,34.5,7.0
+61,Miami,Heat,MIA,17-18,44.0,23.0,12.0,44.5,11.0
+62,Miami,Heat,MIA,18-19,39.0,23.0,14.0,43.5,9.0
+63,Miami,Heat,MIA,19-20,,21.0,6.0,34.5,15.0
+64,Milwaukee,Bucks,MIL,16-17,42.0,19.0,9.0,34.5,10.0
+65,Milwaukee,Bucks,MIL,17-18,44.0,22.0,10.0,46.5,12.0
+66,Milwaukee,Bucks,MIL,18-19,60.0,23.0,7.0,48.5,16.0
+67,Milwaukee,Bucks,MIL,19-20,,22.0,3.0,55.5,19.0
+68,Minnesota,Timberwolves,MIN,16-17,31.0,20.0,14.0,41.5,6.0
+69,Minnesota,Timberwolves,MIN,17-18,47.0,25.0,11.0,48.0,14.0
+70,Minnesota,Timberwolves,MIN,18-19,36.0,25.0,12.0,42.0,13.0
+71,Minnesota,Timberwolves,MIN,19-20,,20.0,10.0,34.5,10.0
+72,New Orleans,Pelicans,NOP,16-17,34.0,22.0,15.0,36.5,7.0
+73,New Orleans,Pelicans,NOP,17-18,48.0,24.0,12.0,39.5,12.0
+74,New Orleans,Pelicans,NOP,18-19,33.0,26.0,13.0,45.0,13.0
+75,New Orleans,Pelicans,NOP,19-20,,21.0,15.0,31.5,6.0
+76,New York,Knicks,NYK,16-17,31.0,20.0,9.0,38.5,11.0
+77,New York,Knicks,NYK,17-18,29.0,23.0,12.0,29.5,11.0
+78,New York,Knicks,NYK,18-19,17.0,25.0,17.0,27.5,8.0
+79,New York,Knicks,NYK,19-20,,21.0,17.0,37.5,4.0
+80,Oklahoma City,Thunder,OKC,16-17,47.0,22.0,8.0,45.0,14.0
+81,Oklahoma City,Thunder,OKC,17-18,48.0,23.0,12.0,53.5,11.0
+82,Oklahoma City,Thunder,OKC,18-19,49.0,23.0,7.0,48.5,16.0
+83,Oklahoma City,Thunder,OKC,19-20,,20.0,12.0,46.5,8.0
+84,Orlando,Magic,ORL,16-17,29.0,21.0,12.0,37.5,9.0
+85,Orlando,Magic,ORL,17-18,25.0,25.0,15.0,32.5,10.0
+86,Orlando,Magic,ORL,18-19,42.0,25.0,13.0,30.5,12.0
+87,Orlando,Magic,ORL,19-20,,21.0,11.0,35.5,10.0
+88,Philadelphia,Sixers,PHI,16-17,28.0,21.0,17.0,23.5,4.0
+89,Philadelphia,Sixers,PHI,17-18,52.0,23.0,10.0,39.0,13.0
+90,Philadelphia,Sixers,PHI,18-19,51.0,26.0,9.0,53.5,17.0
+91,Philadelphia,Sixers,PHI,19-20,,21.0,6.0,54.5,15.0
+92,Phoenix,Suns,PHO,16-17,24.0,20.0,14.0,29.5,6.0
+93,Phoenix,Suns,PHO,17-18,21.0,26.0,17.0,29.0,9.0
+94,Phoenix,Suns,PHO,18-19,19.0,24.0,20.0,29.0,4.0
+95,Phoenix,Suns,PHO,19-20,,20.0,11.0,25.5,9.0
+96,Portland,Blazers,POR,16-17,41.0,22.0,10.0,45.5,12.0
+97,Portland,Blazers,POR,17-18,49.0,24.0,11.0,43.5,13.0
+98,Portland,Blazers,POR,18-19,53.0,24.0,11.0,42.5,13.0
+99,Portland,Blazers,POR,19-20,,22.0,13.0,45.5,9.0
+100,Sacramento,Kings,SAC,16-17,32.0,20.0,13.0,33.5,7.0
+101,Sacramento,Kings,SAC,17-18,27.0,23.0,16.0,27.5,7.0
+102,Sacramento,Kings,SAC,18-19,39.0,23.0,11.0,25.5,12.0
+103,Sacramento,Kings,SAC,19-20,,20.0,12.0,33.5,8.0
+104,San Antonio,Spurs,SAS,16-17,61.0,21.0,4.0,57.5,17.0
+105,San Antonio,Spurs,SAS,17-18,47.0,24.0,8.0,54.5,16.0
+106,San Antonio,Spurs,SAS,18-19,48.0,25.0,14.0,42.5,11.0
+107,San Antonio,Spurs,SAS,19-20,,22.0,14.0,44.5,8.0
+108,Toronto,Raptors,TOR,16-17,51.0,21.0,7.0,50.5,14.0
+109,Toronto,Raptors,TOR,17-18,59.0,22.0,7.0,48.0,15.0
+110,Toronto,Raptors,TOR,18-19,58.0,26.0,5.0,56.0,21.0
+111,Toronto,Raptors,TOR,19-20,,20.0,5.0,53.5,15.0
+112,Utah,Jazz,UTA,16-17,51.0,22.0,9.0,47.5,13.0
+113,Utah,Jazz,UTA,17-18,48.0,25.0,12.0,41.5,13.0
+114,Utah,Jazz,UTA,18-19,50.0,25.0,13.0,50.5,12.0
+115,Utah,Jazz,UTA,19-20,,22.0,10.0,50.5,12.0
+116,Washington,Wizards,WAS,16-17,49.0,19.0,12.0,42.5,7.0
+117,Washington,Wizards,WAS,17-18,43.0,24.0,11.0,49.0,13.0
+118,Washington,Wizards,WAS,18-19,32.0,25.0,14.0,46.0,11.0
+119,Washington,Wizards,WAS,19-20,,19.0,13.0,28.5,6.0
